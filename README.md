@@ -6,4 +6,4 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 * yarn install
 * yarn build
 
-![alt text](./docs/example-screen.png "React sample WebApp")
+
